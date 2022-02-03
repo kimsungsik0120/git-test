@@ -1,0 +1,12 @@
+team: Tigers
+
+manager: John
+
+members:
+- Linda
+- William
+<<<<<<< HEAD
+- David
+=======
+- Donald
+>>>>>>> parent of 1fffa2a ( Update tiger)
